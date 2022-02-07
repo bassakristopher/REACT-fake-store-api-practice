@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5ad58d8d967175bfc4a15df8d921606",
+    "revision": "84276fd6641cfd26e73b0b2d79bf424d",
     "url": "https://.github.io/csb-foii7/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://.github.io/csb-foii7/static/js/2.b9b979cf.chunk.js"
   },
   {
-    "revision": "8518735daf241892d413",
-    "url": "https://.github.io/csb-foii7/static/js/main.4f01c189.chunk.js"
+    "revision": "ac8e9d9edd4f6628a398",
+    "url": "https://.github.io/csb-foii7/static/js/main.32aeb788.chunk.js"
   },
   {
     "revision": "dea86e168d536c99e680",
